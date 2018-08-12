@@ -1,0 +1,117 @@
+[center][img width=620]https://raw.githubusercontent.com/AXErunners/media/master/axe-circle.png[/img]
+
+[size=24pt]A X E[/size]
+
+[center][i]advance and expertise, patience, dedication, transparency[/i][/center]
+[center][i]we don't back down. one for all and all for one[/i][/center]
+[center]x
+Our goal is to bring back classic BTC attitude and improve the growing decentralized community.
+Security, unity, and dedication - our main priorities.
+x
+PoW/PoSe system only - no governance/superblocks[/center]
+
+[center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
+[center][url=https://axerunners.github.io/]website[/url] [/center]
+[center][url=https://twitter.com/axerunners]twitter[/url] [/center]
+[center][url=https://www.facebook.com/axe137/]facebook[/url][/center]
+[center][url=https://www.reddit.com/r/AXErunners/]reddit[/url] [/center]
+
+[center]AXE is a decentralized X11-based cryptocurrency. The foundation of AXE network is hybrid PoW/PoSe system.
+First-tier nodes provide hash power to move data and secure the blockchain, while the second tier of full nodes adds extra privacy and increases network performance.
+The second tier of AXE network - masternodes. They sustain a certain minimum level of network performance and provide additional privacy (PoSe).[/center]
+
+[center]algorithm: X11
+ticker: AXE
+prefix: P, 7
+supply: 21000000
+maturity: 101
+confirmations: 6
+spacing: 2.5
+diff: KGW/DGW
+block size: 2MB
+port: 9937
+rpc port: 9337[/center]
+
+[center][color=purple]atomic-swap powered
+[/color][/center]
+
+
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v112macos-scrnsht.png[/img][/center]
+
+[size=10pt][b][url=https://github.com/AXErunners/axe/releases/latest]download core client[/url][/size]
+
+
+
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/electrum-axe-v30641macos-scrnsht.png[/img][/center]
+
+[size=10pt][b][url=https://github.com/AXErunners/electrum-axe/releases/latest]download electrum-axe[/url][/size]
+
+
+[url=https://www.vultr.com/?ref=7231821]vultr[/url]
+
+[url=https://github.com/AXErunners/axe][size=13pt][color=red]core source code[/color][/size][/url]
+
+[url=https://github.com/AXErunners][img width=135]https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png[/img][/url]
+
+[url=https://raw.githubusercontent.com/AXErunners/media/master/axe-circle.png]hi res icon[/url]
+
+
+[url=https://axe-slack.herokuapp.com/][img width=150]https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png[/img][/url]
+[url=https://discordapp.com/invite/BqhteaU][img width=150]https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png[/img][/url]
+
+
+[b][url=http://207.246.65.114:3001][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
+
+
+[center]donations:
+
+axe 7mLZCucekeWCXYaiR93BThq9TdYc1ZS7Tw
+btc 32NDo6qd8KxvnDizseqBAAox5TM8rLmMiJ
+ltc LdihK8mesqJ1Pm11zBqtJW2SmksdgGMuNd
+bch 13LAh3RFzQb1aUa9Wzxy1uWwDCrZjBT43g
+
+https://salt.bountysource.com/checkout/amount?team=axe
+
+
+[b]we just want an honest coin[/b]
+full transparency, hybrid algo for extra security, no crazy apr, no ico, no airdrop. pm if you would like to be on the team. fair trade!
+[/center]
+
+[url=https://www.crunchbase.com/organization/axerunners]https://www.crunchbase.com/organization/axerunners[/url]
+
+[size=11pt]roadmap[/size]:
+
+possible vpn
+[s]possible masternode (upcoming vote)[/s]
+dapp platform
+neural platform
+
+x
+
+[center]https://github.com/orgs/AXErunners/projects[/center]
+
+x
+
+:[size=13pt]pools[/size]:
+
+https://arcpool.com
+https://cryptonova.eu
+https://smithpool.net
+http://gpuhot.com
+
+:[size=13pt]exchanges[/size]:
+
+[url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
+
+https://freiexchange.com/market/AXE/BTC
+https://nibyx.com/
+
+
+:[size=13pt]stats[/size]:
+https://nodemarketcap.com/coins/axe.html
+
+[/center]
+
+[center][img width=420]https://raw.githubusercontent.com/AXErunners/media/master/axe-tx-long-bk.png[/img][/center]
+
+[center][size=8pt][i][font=Times New Roman]look on my works, ye mighty, and despair![/font][/i][/size][/center]
