@@ -58,6 +58,7 @@ rpc port: 9337[/center]
 
 [url=https://axe-slack.herokuapp.com/][img width=150]https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png[/img][/url]
 [url=https://discordapp.com/invite/BqhteaU][img width=150]https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png[/img][/url]
+[url=https://t.me/joinchat/JYMQHxCcNWkbYWZYFTQ8-w][img width=125]https://image.flaticon.com/icons/png/512/355/355977.png[/img][/url]
 
 
 [b][url=http://207.246.65.114:3001][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
