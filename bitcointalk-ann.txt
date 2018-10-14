@@ -1,6 +1,5 @@
-[center][img width=620]https://raw.githubusercontent.com/AXErunners/media/master/axe-circle.png[/img]
-
-[size=24pt]A X E[/size]
+[center][img width=420]https://raw.githubusercontent.com/AXErunners/media/master/axe-circle.png[/img]
+[size=32pt]A X E[/size]
 
 [center][i]advance and expertise, patience, dedication, transparency[/i][/center]
 [center][i]we don't back down. one for all and all for one[/i][/center]
@@ -10,8 +9,8 @@ Security, unity, and dedication - our main priorities.
 x
 PoW/PoSe system only - no governance/superblocks[/center]
 
-[center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
 [center][url=https://axerunners.github.io/]website[/url] [/center]
+[center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
 [center][url=https://twitter.com/axerunners]twitter[/url] [/center]
 [center][url=https://www.facebook.com/axe137/]facebook[/url][/center]
 [center][url=https://www.reddit.com/r/AXErunners/]reddit[/url] [/center]
@@ -36,13 +35,13 @@ rpc port: 9337[/center]
 [/color][/center]
 
 
-[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v112macos-scrnsht.png[/img][/center]
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v115macos-scrnsht.jpeg[/img][/center]
 
 [size=10pt][b][url=https://github.com/AXErunners/axe/releases/latest]download core client[/url][/size]
 
 
 
-[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/electrum-axe-v30641macos-scrnsht.png[/img][/center]
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/electrum-axe-v322macos-scrnsht.png[/img][/center]
 
 [size=10pt][b][url=https://github.com/AXErunners/electrum-axe/releases/latest]download electrum-axe[/url][/size]
 
@@ -97,8 +96,8 @@ x
 
 https://arcpool.com
 https://cryptonova.eu
-https://smithpool.net
-http://gpuhot.com
+https://zenpool.eu
+http://hashing.network
 
 :[size=13pt]exchanges[/size]:
 
@@ -106,10 +105,6 @@ http://gpuhot.com
 
 https://freiexchange.com/market/AXE/BTC
 https://nibyx.com/
-
-
-:[size=13pt]stats[/size]:
-https://nodemarketcap.com/coins/axe.html
 
 [/center]
 
