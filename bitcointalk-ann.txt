@@ -7,7 +7,7 @@
 Our goal is to bring back classic BTC attitude and improve the growing decentralized community.
 Security, unity, and dedication - our main priorities.
 x
-PoW/PoSe system only - no governance/superblocks[/center]
+PoW/PoSe system only - no superblocks[/center]
 
 [center][url=https://axerunners.github.io/]website[/url] [/center]
 [center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
@@ -111,3 +111,9 @@ https://nibyx.com/
 [center][img width=420]https://raw.githubusercontent.com/AXErunners/media/master/axe-tx-long-bk.png[/img][/center]
 
 [center][size=8pt][i][font=Times New Roman]look on my works, ye mighty, and despair![/font][/i][/size][/center]
+
+
+[center]Translations:
+
+[url=https://bitcointalk.org/index.php?topic=5054378]Portuguese[/url]
+[url=https://bitcointalk.org/index.php?topic=2618324]Russian[/url][/center]
