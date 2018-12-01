@@ -35,7 +35,9 @@ rpc port: 9337[/center]
 [/color][/center]
 
 
-[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v115macos-scrnsht.jpeg[/img][/center]
+[center][url=https://itunes.apple.com/app/axe-wallet/id1430269763][img]https://raw.githubusercontent.com/AXErunners/axewallet-ios/master/images/Download_on_the_App_Store_Badge_US-UK_135x40.png[/img][/url]
+
+[img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v115macos-scrnsht.jpeg[/img][/center]
 
 [size=10pt][b][url=https://github.com/AXErunners/axe/releases/latest]download core client[/url][/size]
 
@@ -57,7 +59,7 @@ rpc port: 9337[/center]
 
 [url=https://axe-slack.herokuapp.com/][img width=150]https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png[/img][/url]
 [url=https://discordapp.com/invite/BqhteaU][img width=150]https://discordapp.com/assets/2c21aeda16de354ba5334551a883b481.png[/img][/url]
-[url=https://t.me/joinchat/JYMQHxCcNWkbYWZYFTQ8-w][img width=125]https://image.flaticon.com/icons/png/512/355/355977.png[/img][/url]
+[url=https://t.me/axerunners][img width=125]https://image.flaticon.com/icons/png/512/355/355977.png[/img][/url]
 
 
 [b][url=http://207.246.65.114:3001][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
@@ -94,17 +96,16 @@ x
 
 :[size=13pt]pools[/size]:
 
+https://bsod.pw
 https://arcpool.com
 https://cryptonova.eu
 https://zenpool.eu
-http://hashing.network
 
 :[size=13pt]exchanges[/size]:
 
 [url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
 
 https://freiexchange.com/market/AXE/BTC
-https://nibyx.com/
 
 [/center]
 
