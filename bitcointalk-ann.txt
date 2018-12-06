@@ -43,7 +43,7 @@ rpc port: 9337[/center]
 
 
 
-[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/electrum-axe-v322macos-scrnsht.png[/img][/center]
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-electrum-v3233macos-scrnsht.png[/img][/center]
 
 [size=10pt][b][url=https://github.com/AXErunners/electrum-axe/releases/latest]download electrum-axe[/url][/size]
 
@@ -62,7 +62,7 @@ rpc port: 9337[/center]
 [url=https://t.me/axerunners][img width=125]https://image.flaticon.com/icons/png/512/355/355977.png[/img][/url]
 
 
-[b][url=http://207.246.65.114:3001][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
+[b][url=http://207.246.65.114:3001/insight][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
 
 
 [center]donations:
