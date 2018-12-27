@@ -62,7 +62,7 @@ rpc port: 9337[/center]
 [url=https://t.me/axerunners][img width=125]https://image.flaticon.com/icons/png/512/355/355977.png[/img][/url]
 
 
-[b][url=http://207.246.65.114:3001/insight][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
+[b][url=http://207.246.65.114:3001/][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
 
 
 [center]donations:
