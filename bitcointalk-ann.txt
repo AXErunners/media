@@ -7,7 +7,6 @@
 Our goal is to bring back classic BTC attitude and improve the growing decentralized community.
 Security, unity, and dedication - our main priorities.
 x
-PoW/PoSe system only - no superblocks[/center]
 
 [center][url=https://axerunners.github.io/]website[/url] [/center]
 [center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
@@ -30,10 +29,6 @@ diff: KGW/DGW
 block size: 2MB
 port: 9937
 rpc port: 9337[/center]
-
-[center][color=purple]atomic-swap powered
-[/color][/center]
-
 
 [center][url=https://itunes.apple.com/app/axe-wallet/id1430269763][img]https://raw.githubusercontent.com/AXErunners/axewallet-ios/master/images/Download_on_the_App_Store_Badge_US-UK_135x40.png[/img][/url]
 
@@ -95,6 +90,7 @@ x
 x
 
 :[size=13pt]pools[/size]:
+[url=https://poolexplorer.com/coin/3374]pool explorer[/url]
 
 https://bsod.pw
 https://arcpool.com
@@ -106,7 +102,9 @@ https://zenpool.eu
 
 [url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
 
+https://www.azex.io/mk?pair=axe_btc
 https://freiexchange.com/market/AXE/BTC
+https://www.hotbit.io/exchange?symbol=AXE_BTC
 
 [/center]
 
