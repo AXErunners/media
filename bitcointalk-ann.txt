@@ -9,7 +9,6 @@ Security, unity, and dedication - our main priorities.
 x
 
 [center][url=https://axerunners.github.io/]website[/url] [/center]
-[center][url=https://github.com/AXErunners/axe/wiki]wiki[/url][/center]
 [center][url=https://twitter.com/axerunners]twitter[/url] [/center]
 [center][url=https://www.facebook.com/axe137/]facebook[/url][/center]
 [center][url=https://www.reddit.com/r/AXErunners/]reddit[/url] [/center]
