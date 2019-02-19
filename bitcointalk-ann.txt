@@ -97,6 +97,10 @@ https://icemining.ca
 https://cryptonova.eu
 https://zenpool.eu
 
+p2p-pools:
+http://45.76.57.1:7923
+http://85.175.96.251:7923
+
 :[size=13pt]exchanges[/size]:
 
 [url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
