@@ -57,6 +57,7 @@ rpc port: 9337[/center]
 
 
 [b][url=http://207.246.65.114:3001/][size=11pt][color=orange]block explorer[/color][/size][/url][/b]
+[color=purple][b][url=https://blockfolio.com/coin/AXE]blockfolio signals[/url][/b][/color]
 
 
 [center]donations:
@@ -85,21 +86,16 @@ neural platform
 x
 
 [center]https://github.com/orgs/AXErunners/projects[/center]
+[center]https://github.com/AXErunners/axe/projects[/center]
 
 x
 
 :[size=13pt]pools[/size]:
 [url=https://poolexplorer.com/coin/3374]pool explorer[/url]
 
-https://bsod.pw
-https://arcpool.com
-https://icemining.ca
-https://cryptonova.eu
-https://zenpool.eu
-
 p2p-pools:
 http://45.76.57.1:7923
-http://85.175.96.251:7923
+http://178.62.97.225:7923
 
 :[size=13pt]exchanges[/size]:
 
@@ -107,7 +103,9 @@ http://85.175.96.251:7923
 
 https://www.azex.io/mk?pair=axe_btc
 https://freiexchange.com/market/AXE/BTC
+https://www.citex.co.kr/#/trade/2/38
 https://www.hotbit.io/exchange?symbol=AXE_BTC
+https://www.qbtc.ink/trade?symbol=AXE_USDT
 
 [/center]
 
