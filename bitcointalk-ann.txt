@@ -44,7 +44,7 @@ rpc port: 9337[/center]
 
 [url=https://www.vultr.com/?ref=7231821]vultr[/url]
 
-[url=https://github.com/AXErunners/axe][size=13pt][color=red]core source code[/color][/size][/url]
+[url=https://github.com/AXErunners/axe][size=13pt][color=red]core source[/color][/size][/url]
 
 [url=https://github.com/AXErunners][img width=135]https://cdn2.iconfinder.com/data/icons/social-aquiocons/512/Aquicon-Github.png[/img][/url]
 
