@@ -102,6 +102,7 @@ http://178.62.97.225:7923
 
 [url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
 
+https://crex24.com/exchange/AXE-BTC
 https://www.azex.io/mk?pair=axe_btc
 https://freiexchange.com/market/AXE/BTC
 https://www.citex.co.kr/#/trade/2/38
