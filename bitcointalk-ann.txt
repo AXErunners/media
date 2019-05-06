@@ -68,7 +68,7 @@ btc 32NDo6qd8KxvnDizseqBAAox5TM8rLmMiJ
 ltc LdihK8mesqJ1Pm11zBqtJW2SmksdgGMuNd
 bch 13LAh3RFzQb1aUa9Wzxy1uWwDCrZjBT43g
 
-https://salt.bountysource.com/checkout/amount?team=axe
+https://salt.bountysource.com/checkout/amount?team=axerunners
 
 
 [b]we just want an honest coin[/b]
@@ -94,7 +94,7 @@ x
 :[size=13pt]pools[/size]:
 [url=https://poolexplorer.com/coin/3374]pool explorer[/url]
 
-p2p-pools:
+[url=https://axe-p2pool-scanner.arcpool.com]p2pool scanner[/url]
 http://45.76.57.1:7923
 http://178.62.97.225:7923
 
