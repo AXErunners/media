@@ -93,10 +93,7 @@ x
 
 :[size=13pt]pools[/size]:
 [url=https://poolexplorer.com/coin/3374]pool explorer[/url]
-
 [url=https://axe-p2pool-scanner.arcpool.com]p2pool scanner[/url]
-http://45.76.57.1:7923
-http://178.62.97.225:7923
 
 :[size=13pt]exchanges[/size]:
 
