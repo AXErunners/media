@@ -31,15 +31,15 @@ rpc port: 9337[/center]
 
 [center][url=https://itunes.apple.com/app/axe-wallet/id1430269763][img]https://raw.githubusercontent.com/AXErunners/axewallet-ios/master/images/Download_on_the_App_Store_Badge_US-UK_135x40.png[/img][/url]
 
-[img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v115macos-scrnsht.jpeg[/img][/center]
+[img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-qt-v141linux-scrnsht.png[/img][/center]
 
-[size=10pt][b][url=https://github.com/AXErunners/axe/releases/latest]download core client[/url][/size]
+[size=10pt][b][url=https://github.com/AXErunners/axe/releases/latest]download axe core client[/url][/size]
 
 
 
-[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-electrum-v3233macos-scrnsht.png[/img][/center]
+[center][img]https://raw.githubusercontent.com/AXErunners/media/master/etc/axe-electrum-v3382linux-scrnsht.png[/img][/center]
 
-[size=10pt][b][url=https://github.com/AXErunners/electrum-axe/releases/latest]download electrum-axe[/url][/size]
+[size=10pt][b][url=https://github.com/AXErunners/electrum-axe/releases/latest]download axe electrum[/url][/size]
 
 
 [url=https://www.vultr.com/?ref=7231821]vultr[/url]
@@ -60,13 +60,14 @@ rpc port: 9337[/center]
 
 [color=purple][b][url=https://blockfolio.com/coin/AXE]blockfolio signals[/url][/b][/color]
 
+[color=blue][b][url=https://whattomine.com/coins/313-axe-x11]whattomine[/url][/b][/color]
+
 
 [center]donations:
 
 axe 7mLZCucekeWCXYaiR93BThq9TdYc1ZS7Tw
 btc 32NDo6qd8KxvnDizseqBAAox5TM8rLmMiJ
 ltc LdihK8mesqJ1Pm11zBqtJW2SmksdgGMuNd
-bch 13LAh3RFzQb1aUa9Wzxy1uWwDCrZjBT43g
 
 https://salt.bountysource.com/checkout/amount?team=axerunners
 
