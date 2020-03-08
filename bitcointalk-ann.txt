@@ -98,7 +98,7 @@ x
 
 :[size=13pt]exchanges[/size]:
 
-[url=https://github.com/KomodoPlatform/BarterDEX]BarterDEX[/url] decentralized
+[url=https://atomicdex.io]atomicdex.io[/url] decentralized
 
 https://crex24.com/exchange/AXE-BTC
 https://www.azex.io/mk?pair=axe_btc
